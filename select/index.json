@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "デッドマンズ・ギャラクシー・デイズ",
+  "base_artist": "Thee Michelle Gun Elephant",
+  "createdAt": "2025-12-02T01:34:38.086790Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デッドマンズ・ギャラクシー・デイズ",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/01_デッドマンズ・ギャラクシー・デイズ_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "デッドマンズ・ギャラクシー・デイズ",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/02_デッドマンズ・ギャラクシー・デイズ_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デッドマンズ・ギャラクシー・デイズ",
+      "artist": "thee michelle gun elephant",
+      "has_synced": false,
+      "path": "select/pl_01_デッドマンズ・ギャラクシー・デイズ_thee_michelle_gun_elephant.txt"
+    }
+  ]
+}
